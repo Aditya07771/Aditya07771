@@ -15,7 +15,7 @@
 
 Exploring Full Stack Development and AI Engineering while continuously improving myself.
 I enjoy building scalable systems, optimized backends, and real-world AI applications.
-Experienced with MERN Next.js FastAPI LLMs RAG Agentic AI and MLOps.
+Experienced with MERN, Next.js, FastAPI, LLMs, RAG, Agentic AI and MLOps.
 Always curious about System Design Performance Optimization and solving real-world problems:)
 
 <br>
