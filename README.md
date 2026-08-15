@@ -89,5 +89,5 @@ Always curious about System Design Performance Optimization and solving real-wor
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aditya07771&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Aditya07771&theme=tokyonight" alt="GitHub Streak" />
 </p>
