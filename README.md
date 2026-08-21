@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/Aditya07771/Aditya07771/main/banner.gif" 
-    alt="Banner"
+    alt="Banner" 
     width="100%"
   />
   
